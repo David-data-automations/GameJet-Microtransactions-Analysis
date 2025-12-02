@@ -1,5 +1,1 @@
-mkdir sql
-touch sql/.gitkeep
-touch sql/alcohol_related_joins.sql
-touch sql/inattention_by_day_of_week.sql
-touch sql/cell_phone_vs_other_distraction.sql
+
